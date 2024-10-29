@@ -23,7 +23,7 @@ The Employee Tracker is a content management system (CMS) that allows users to m
 - **View Departments, Roles, and Employees**: Easily retrieve and view department names, role titles, and employee information.
 - **Add New Data**: Add new departments, roles, and employees to the database.
 - **Update Employee Role**: Update the role of existing employees in the organization.
-- **Bonus Features** (optional):
+- **Bonus Features** :
   - Update employee managers.
   - View employees by manager or department.
   - Delete departments, roles, and employees.
