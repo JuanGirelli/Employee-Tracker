@@ -70,6 +70,10 @@ The Employee Tracker is a content management system (CMS) that allows users to m
     ```bash
     node dist/index.js
     ```
+    OR
+   ```bash
+    npm start
+    ```
 
 ## Usage
 
